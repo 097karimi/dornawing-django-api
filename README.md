@@ -3,14 +3,14 @@
 ## Installation
 git clone git@github.com:097karimi/dornawing-django-api.git
 
-first install docker 
-https://docs.docker.com/engine/install/ubuntu/
+First install docker 
+  https://docs.docker.com/engine/install/ubuntu/
 
-second 
-docker build .
+Second 
+  docker build .
 
-third
-docker-compose up 
+Third
+  docker-compose up 
 
 
 ===========================================================================================<br>
